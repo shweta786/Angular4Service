@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Shweta",
+        "tech": "java"
+    },
+    {
+        "id": 2,
+        "name": "Asna",
+        "tech": "C++"
+    },
+    {
+        "id": 3,
+        "name": "Sonam",
+        "tech": "Android"
+    },
+    {
+        "id": 4,
+        "name": "Apurva",
+        "tech": "Dot net"
+    }
+]

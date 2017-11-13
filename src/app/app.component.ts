@@ -12,7 +12,8 @@ export class AppComponent {
 
   ngOnInit() {
     console.log(this.newService.success());
-    console.log(this.newService.obj);
+    // console.log(this.newService.obj);
+    this.newService.getData();
   }
 
 }
